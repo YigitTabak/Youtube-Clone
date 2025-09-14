@@ -1,3 +1,7 @@
+![image alt](https://github.com/YigitTabak/Youtube-Clone/blob/master/public/Home.png?raw=true)
+![image alt](https://github.com/YigitTabak/Youtube-Clone/blob/master/public/Detail.png?raw=true)
+![image alt](https://github.com/YigitTabak/Youtube-Clone/blob/master/public/Resp.png?raw=true)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
